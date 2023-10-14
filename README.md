@@ -8,3 +8,5 @@ VoidCraft is a branch of Minecraft 1.20.1 where alot of new blocks are added!
 5. I *RECOMMEND* downloading the resource packs. These respacks are used for the ARG.
 6. Click launch.
 7. Enjoy the game!
+## Downloads Page
+https://voidcraftvoid.github.io/downloads/
